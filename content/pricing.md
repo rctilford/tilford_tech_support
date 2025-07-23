@@ -23,7 +23,7 @@ layout: "pricing"
             ],
             "button": {
                 "text": "Book Consult",
-                "url": "/book-consult"
+                "url": "book-consult"
             }
         },
         {
@@ -41,7 +41,7 @@ layout: "pricing"
             ],
             "button": {
                 "text": "Book Consult",
-                "url": "/book-consult"
+                "url": "book-consult"
             }
         },
         {
@@ -58,7 +58,7 @@ layout: "pricing"
             ],
             "button": {
                 "text": "Book Consult",
-                "url": "/book-consult"
+                "url": "book-consult"
             }
         }
     ]
@@ -86,7 +86,7 @@ layout: "pricing"
             ],
             "button": {
                 "text": "Book Consult",
-                "url": "/book-consult"
+                "url": "book-consult"
             }
         },
         {
@@ -104,7 +104,7 @@ layout: "pricing"
             ],
             "button": {
                 "text": "Book Consult",
-                "url": "/book-consult"
+                "url": "book-consult"
             }
         },
         {
@@ -121,7 +121,7 @@ layout: "pricing"
             ],
             "button": {
                 "text": "Book Consult",
-                "url": "/book-consult"
+                "url": "book-consult"
             }
         }
     ]
