@@ -1,4 +1,4 @@
-baseURL = "https://saasify-demo.chaoming.li/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Tilford Tech Support"
 
@@ -34,17 +34,17 @@ paginatePath = "page"
   # Global CTA Configuration
   [params.cta]
     enable = true
-    title = "Ready to Build Your SaaS Website?"
-    description = "Join companies already using our theme to create beautiful, high-performance websites."
+    title = "Ready to get your tech in tip top shape?"
+    description = "Get your tech in tune with your needs."
     gradient_from = "#2563eb"  # Indigo-600
     gradient_to = "#7c3aed"    # Purple-600
     gradient_angle = 30
     [params.cta.primary_button]
-      text = "Services"
-      url = "/get-started"
+      text = "Pricing"
+      url = "/pricing"
     [params.cta.secondary_button]
       text = "Book Consult"
-      url = "/demo"
+      url = "/book-consult"
   
   # Social Media Links
   [params.social]
@@ -54,7 +54,7 @@ paginatePath = "page"
   
   # Footer Configuration
   [params.footer]
-    column_1_title = "Features"
+    column_1_title = "Services"
     column_2_title = "COMPANY"
     column_3_title = "LEGAL"
   
@@ -93,8 +93,8 @@ paginatePath = "page"
       
       # Get Started button
       [params.header.buttons.getStarted]
-        text = "Get Started"
-        url = "/get-started"
+        text = "Book Consult"
+        url = "/book-consult"
 
   # Blog configuration
   [params.blog]
@@ -130,7 +130,7 @@ paginatePath = "page"
         enable = true
         title = "Subscribe to Newsletter"
         description = "Get the latest posts delivered right to your inbox"
-        action = "https://formspree.io/f/your-form-id"
+        action = "https://formspree.io/f/mgvzazed"
         emailName = "email"
         buttonText = "Subscribe"
         placeholder = "Enter your email"
@@ -172,9 +172,9 @@ paginatePath = "page"
     [menu.main.params]
       has_submenu = true
       submenu = [
-        { name = "Performance", url = "/features/performance/" },
-        { name = "Design System", url = "/features/design-system/" },
-        { name = "Developer Experience", url = "/features/developer-experience/" }
+        { name = "Cassette Digitization", url = "/features/performance/" },
+        { name = "Virus Removal and OS Recovery", url = "/features/design-system/" },
+        { name = "File Conversion", url = "/features/developer-experience/" }
       ]
   [[menu.main]]
     name = "Pricing"
@@ -190,21 +190,21 @@ paginatePath = "page"
     [menu.main.params]
       has_submenu = true
       submenu = [
-        { name = "About Us", url = "/company/" },
-        { name = "Careers", url = "/careers/" }
+        { name = "About Me", url = "/company/" },
+        { name = "Contact Me", url = "/careers/" }
       ]
 
   # Footer Column 1 Menu
   [[menu.footer_column_1]]
-    name = "Performance"
+    name = "Cassette Digitization"
     url = "/features/performance/"
     weight = 1
   [[menu.footer_column_1]]
-    name = "Design System"
+    name = "Virus Removal and OS Recovery"
     url = "/features/design-system/"
     weight = 2
   [[menu.footer_column_1]]
-    name = "Developer Experience"
+    name = "File Conversion"
     url = "/features/developer-experience/"
     weight = 3
 
@@ -218,7 +218,7 @@ paginatePath = "page"
     url = "/company"
     weight = 2
   [[menu.footer_column_2]]
-    name = "Careers"
+    name = "Get In Touch"
     url = "/careers"
     weight = 3
 

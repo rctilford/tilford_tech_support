@@ -5,11 +5,11 @@ layout: "simple"
 
 ## Introduction
 
-At Saasify, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our service.
+I take your privacy seriously. This Privacy Policy explains how I collect, use, disclose, and safeguard your information when you use my services.
 
 ---
 
-## Information We Collect
+## Information I Collect
 
 ### Personal Information
 
@@ -27,34 +27,34 @@ At Saasify, we take your privacy seriously. This Privacy Policy explains how we 
 
 ---
 
-## How We Use Your Information
+## How I Use Your Information
 
 We use the collected information for:
 
 * **Service Delivery**  
-  Providing and maintaining our service
+  Providing and maintaining my services
 * **Updates**  
-  Notifying you about changes to our service
+  Notifying you about changes to my services
 * **Support**  
   Providing customer support
 * **Transactions**  
   Processing your transactions
 * **Analytics**  
-  Analyzing usage patterns to improve our service
+  Analyzing usage patterns to improve my services
 
 ---
 
 ## Data Security
 
-We implement appropriate technical and organizational security measures to protect your personal information. However, no method of transmission over the Internet is 100% secure.
+I implement appropriate technical and organizational security measures to protect your personal information. However, no method of transmission over the Internet is 100% secure.
 
 ---
 
 ## Third-Party Services
 
-We may employ third-party companies and individuals to:
+I may employ third-party companies and individuals to:
 
-* Facilitate our service
+* Facilitate my services
 * Provide service-related services
 * Assist in analyzing service usage
 
@@ -74,15 +74,15 @@ You have the right to:
 
 ## Changes to This Policy
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
+I may update my Privacy Policy from time to time. I will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
 
 ---
 
-## Contact Us
+## Contact Me
 
-If you have questions about this Privacy Policy, please contact us at:
+If you have questions about this Privacy Policy, please contact me at:
 
-* **Email:** privacy@saasify.com
+* **Email:** rhystilford
 * **Address:** 123 Tech Street, San Francisco, CA 94105
 
-*Last Updated: January 2024*
+*Last Updated: July 2025*

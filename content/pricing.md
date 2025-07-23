@@ -10,41 +10,44 @@ layout: "pricing"
     "description": "Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.",
     "plans": [
         {
-            "name": "Starter",
-            "price": "29",
-            "description": "Best option for personal use & for your next project.",
+            "name": "Cassette Digitization",
+            "price": "15",
+            "unit": "tape",
+            "description": "Original quality at an unbeatable price",
             "features": [
-                "Individual configuration",
-                "No setup, or hidden fees",
-                "Team size: 1 developer",
-                "Premium support: 6 months",
-                "Free updates: 6 months"
+                "Digital copy and original media will be returned to the client",
+                "Optional USB Drive: $5",
+                "Optional DVD: $2",
+                "No hidden fees",
+                "Satisfaction Guaranteed"
             ],
             "button": {
-                "text": "Get started",
-                "url": "#"
+                "text": "Book Consult",
+                "url": "/book-consult"
             }
         },
         {
-            "name": "Company",
-            "price": "99",
-            "description": "Relevant for multiple users, extended & premium support.",
+            "name": "Virus Removal and OS Recovery",
+            "price": "25",
+            "unit": "hour",
+            "description": "Compassionate and patient support",
             "featured": true,
             "features": [
-                "Individual configuration",
+                "Tailored computor setup",
                 "No setup, or hidden fees",
                 "Team size: 10 developers",
                 "Premium support: 24 months",
                 "Free updates: 24 months"
             ],
             "button": {
-                "text": "Get started",
-                "url": "#"
+                "text": "Book Consult",
+                "url": "/book-consult"
             }
         },
         {
             "name": "Enterprise",
             "price": "499",
+            "unit": "test",
             "description": "Best for large scale uses and extended redistribution rights.",
             "features": [
                 "Individual configuration",
@@ -54,8 +57,8 @@ layout: "pricing"
                 "Free updates: 36 months"
             ],
             "button": {
-                "text": "Get started",
-                "url": "#"
+                "text": "Book Consult",
+                "url": "/book-consult"
             }
         }
     ]
@@ -72,6 +75,7 @@ layout: "pricing"
         {
             "name": "Basic",
             "price": "19",
+            "unit": "test",
             "description": "Perfect for freelancers and solo developers.",
             "features": [
                 "Core features included",
@@ -81,13 +85,14 @@ layout: "pricing"
                 "Monthly updates"
             ],
             "button": {
-                "text": "Choose Basic",
-                "url": "#"
+                "text": "Book Consult",
+                "url": "/book-consult"
             }
         },
         {
             "name": "Professional",
             "price": "79",
+            "unit": "test",
             "description": "Ideal for growing development teams.",
             "featured": true,
             "features": [
@@ -98,13 +103,14 @@ layout: "pricing"
                 "CI/CD integration"
             ],
             "button": {
-                "text": "Choose Pro",
-                "url": "#"
+                "text": "Book Consult",
+                "url": "/book-consult"
             }
         },
         {
             "name": "Business",
             "price": "299",
+            "unit": "test",
             "description": "For large organizations and enterprises.",
             "features": [
                 "All Pro features",
@@ -114,8 +120,8 @@ layout: "pricing"
                 "SLA guarantee"
             ],
             "button": {
-                "text": "Choose Business",
-                "url": "#"
+                "text": "Book Consult",
+                "url": "/book-consult"
             }
         }
     ]
@@ -125,11 +131,11 @@ layout: "pricing"
 {{< faq >}}
 {
     "title": "Common Questions",
-    "description": "Find answers to frequently asked questions about our pricing plans and features.",
+    "description": "Find answers to frequently asked questions about my pricing and services.",
     "questions": [
         {
             "question": "What type of payment do you accept?",
-            "answer": "We accept all major credit cards, PayPal, and bank transfers. All payments are processed securely through our payment providers."
+            "answer": "We accept all major credit cards, Venmo, and checks. All payments are processed securely through my payment providers."
         },
         {
             "question": "Do you offer custom pricing for larger teams?",
