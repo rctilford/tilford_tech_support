@@ -27,12 +27,12 @@ testimonials:
 ---
 
 {{< hero 
-    headline="Build Your SaaS Website"
-    sub_headline="Create stunning, responsive websites that load instantly. Built with Hugo and TailwindCSS for maximum performance and flexibility."
-    primary_button_text="Get Started Free"
-    primary_button_url="#"
-    secondary_button_text="View Demo"
-    secondary_button_url="#"
+    headline="Get help with your tech"
+    sub_headline="Many people find tech unintuitive, you deserve tech support that understands."
+    primary_button_text="Book a consult today"
+    primary_button_url="/book-consult"
+    secondary_button_text="Pricing"
+    secondary_button_url="/pricing"
     hero_image="/images/hero-dashboard.svg"
     gradient-from="#dbeafe"
     gradient-to="#f3e8ff"
@@ -42,8 +42,8 @@ testimonials:
 {{< client-logos animate="true" >}}
 
 {{< features-section 
-    title="Modern Features for Modern Websites"
-    description="Discover how our theme helps you build fast, beautiful SaaS websites with ease."
+    title="Transfer cassette tapes to DVD or a usb drive"
+    description="It's becoming harder to find VHS players. Secure your family videos for generations to come."
 >}}
 
 {{< feature
