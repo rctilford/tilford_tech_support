@@ -33,11 +33,10 @@ layout: "pricing"
             "description": "Compassionate and patient support",
             "featured": true,
             "features": [
-                "Tailored computor setup",
-                "No setup, or hidden fees",
-                "Team size: 10 developers",
-                "Premium support: 24 months",
-                "Free updates: 24 months"
+                "Tailored computer setup",
+                "Comprehensive support",
+                "No hidden fees",
+                "Satisfaction Guaranteed"
             ],
             "button": {
                 "text": "Book Consult",

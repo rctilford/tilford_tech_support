@@ -49,35 +49,36 @@ testimonials:
 {{< feature
     title="Transfer cassette tapes to DVD or a usb drive"
     description="It's becoming harder to find VHS players. Secure your family videos for generations to come."
+    badge='Preservation'
     badgeColor="#2563eb"
     image="images/feature-1.svg"
     buttonText="Learn More"
     buttonLink="features/performance/"
-    features="Sub-second page loads,Optimized assets,Minimal JavaScript,CDN-ready output"
+    features="Multiple destination formats,Original quality,No hidden fees,Satisfaction guaranteed"
     imagePosition="right"
 >}}
 
 {{< feature
-    title="Beautiful Design System"
-    description="Create stunning user interfaces with our comprehensive design system built on TailwindCSS. Customize everything to match your brand."
-    badge="Design"
+    title="Remove a virus from an infected computer"
+    description="Protect your computer from malware without sacrificing any of your files"
+    badge="Security"
     badgeColor="#7c3aed"
     image="images/feature-2.svg"
     buttonText="Learn More"
     buttonLink="features/design-system/"
-    features="Modern UI components,Responsive design,Custom typography,Flexible layouts"
+    features="Comprehensive support,No hidden fees,Satisfaction guaranteed"
     imagePosition="left"
 >}}
 
 {{< feature
-    title="Developer Experience"
-    description="Enjoy a seamless development experience with hot reload, component-based architecture, and clean, maintainable code."
-    badge="Development"
+    title="Many other tech tasks"
+    description="Get help with any tech problem. I service everything (including the kitchen sink)"
+    badge="Everything else"
     badgeColor="#16a34a"
     image="images/feature-3.svg"
     buttonText="Learn More"
     buttonLink="features/developer-experience/"
-    features="Component system,Easy customization,Clean code,Detailed documentation"
+    features="Easy customization,No hidden fees,Satisfaction guaranteed"
     imagePosition="right"
 >}}
 
