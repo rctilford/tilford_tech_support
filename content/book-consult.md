@@ -37,7 +37,7 @@ layout: "simple"
     <legend class="fs-fieldset-title">Support Request Details</legend>
     <div class="fs-field">
       <label class="fs-label" for="support-type">Type of Support Needed</label>
-      <select class="fs-select" id="support-type" name="support-type" required>
+      <select class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500" id="support-type" name="support-type" required>
         <option value="technical-issue">Technical Issue</option>
         <option value="cassette-digitization">Cassette Digitization</option>
         <option value="virus-removal">Virus Removal</option>
@@ -112,6 +112,7 @@ layout: "simple"
         placeholder="e.g., Weekdays 2-5 PM"
       />
     </div>
+    <br>
     <div class="fs-button-group">
       <button class="w-full px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors duration-200" type="submit">Submit</button>
     </div>
