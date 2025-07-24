@@ -3,7 +3,7 @@ title: "Book A Consult"
 layout: "simple"
 ---
 
-
+<div class="bg-primary-50 p-6 rounded-lg">
 <form
   action="https://formspree.io/f/mgvzazed"
   class="fs-form"
@@ -11,9 +11,9 @@ layout: "simple"
   method="POST"
 >
   <fieldset>
-    <legend class="fs-fieldset-title">Contact Information</legend>
+    <legend class="text-lg font-bold text-gray-900 mb-2">Contact Information</legend>
     <div class="space-y-3">
-      <label class="fs-label" for="full-name">Full Name</label>
+      <label class="text-sm text-gray-600 mb-4" for="full-name">Full Name</label>
       <input
         class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
         id="full-name"
@@ -23,7 +23,7 @@ layout: "simple"
       />
     </div>
     <div class="fs-field">
-      <label class="fs-label" for="email-address">Email Address</label>
+      <label class="text-sm text-gray-600 mb-4" for="email-address">Email Address</label>
       <input
         class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
         id="email-address"
@@ -36,7 +36,7 @@ layout: "simple"
   <fieldset>
     <legend class="fs-fieldset-title">Support Request Details</legend>
     <div class="fs-field">
-      <label class="fs-label" for="support-type">Type of Support Needed</label>
+      <label class="text-sm text-gray-600 mb-4" for="support-type">Type of Support Needed</label>
       <select class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500" id="support-type" name="support-type" required>
         <option value="technical-issue">Technical Issue</option>
         <option value="cassette-digitization">Cassette Digitization</option>
@@ -45,7 +45,7 @@ layout: "simple"
       </select>
     </div>
     <div class="fs-field">
-      <label class="fs-label" for="subject-of-request">
+      <label class="text-sm text-gray-600 mb-4" for="subject-of-request">
         Subject of Request
       </label>
       <input
@@ -57,7 +57,7 @@ layout: "simple"
       />
     </div>
     <div class="fs-field col-span-full">
-      <label class="fs-label" for="detailed-description">
+      <label class="text-sm text-gray-600 mb-4" for="detailed-description">
         Detailed Description of the Issue or Request
       </label>
       <textarea
@@ -69,7 +69,7 @@ layout: "simple"
       ></textarea>
     </div>
     <div class="fs-field">
-      <label class="fs-label" for="product-or-service">
+      <label class="text-sm text-gray-600 mb-4" for="product-or-service">
         Product or Service Related To
       </label>
       <input
@@ -80,7 +80,7 @@ layout: "simple"
       />
     </div>
     <div class="fs-field">
-      <label class="fs-label" for="attachment">
+      <label class="text-sm text-gray-600 mb-4" for="attachment">
         Optional Attachment (Screenshots, Error Logs, etc.)
       </label>
       <input
@@ -91,7 +91,7 @@ layout: "simple"
       />
     </div>
     <div class="fs-field">
-      <label class="fs-label" for="device-browser-info">
+      <label class="text-sm text-gray-600 mb-4" for="device-browser-info">
         Device / Browser Information (if applicable)
       </label>
       <input
@@ -102,7 +102,7 @@ layout: "simple"
       />
     </div>
     <div class="fs-field">
-      <label class="fs-label" for="best-time-to-reach">
+      <label class="text-sm text-gray-600 mb-4" for="best-time-to-reach">
         Best Time to Reach You (optional)
       </label>
       <input
@@ -117,4 +117,6 @@ layout: "simple"
       <button class="w-full px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors duration-200" type="submit">Submit</button>
     </div>
   </fieldset>
+  <p class="text-xs text-gray-500 mt-2">We respect your privacy. Unsubscribe at any time.</p>
 </form>
+</div>
