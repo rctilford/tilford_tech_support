@@ -12,10 +12,10 @@ layout: "simple"
 >
   <fieldset>
     <legend class="fs-fieldset-title">Contact Information</legend>
-    <div class="fs-field">
+    <div class="space-y-3">
       <label class="fs-label" for="full-name">Full Name</label>
       <input
-        class="fs-input"
+        class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
         id="full-name"
         name="full-name"
         placeholder="Enter your full name"
@@ -25,7 +25,7 @@ layout: "simple"
     <div class="fs-field">
       <label class="fs-label" for="email-address">Email Address</label>
       <input
-        class="fs-input"
+        class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
         id="email-address"
         name="email-address"
         placeholder="Enter your email address"
@@ -49,7 +49,7 @@ layout: "simple"
         Subject of Request
       </label>
       <input
-        class="fs-input"
+        class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
         id="subject-of-request"
         name="subject-of-request"
         placeholder="Enter the subject of your request"
@@ -61,7 +61,7 @@ layout: "simple"
         Detailed Description of the Issue or Request
       </label>
       <textarea
-        class="fs-textarea"
+        class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
         id="detailed-description"
         name="detailed-description"
         placeholder="Provide a detailed description"
@@ -73,7 +73,7 @@ layout: "simple"
         Product or Service Related To
       </label>
       <input
-        class="fs-input"
+        class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
         id="product-or-service"
         name="product-or-service"
         placeholder="Enter the related product or service"
@@ -84,7 +84,7 @@ layout: "simple"
         Optional Attachment (Screenshots, Error Logs, etc.)
       </label>
       <input
-        class="fs-input"
+        class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
         id="attachment"
         name="attachment"
         placeholder="Add a link after uploading files to Google Drive, Dropbox, etc."
@@ -95,7 +95,7 @@ layout: "simple"
         Device / Browser Information (if applicable)
       </label>
       <input
-        class="fs-input"
+        class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
         id="device-browser-info"
         name="device-browser-info"
         placeholder="e.g., iPhone 14, Chrome"
@@ -106,14 +106,14 @@ layout: "simple"
         Best Time to Reach You (optional)
       </label>
       <input
-        class="fs-input"
+        class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500"
         id="best-time-to-reach"
         name="best-time-to-reach"
         placeholder="e.g., Weekdays 2-5 PM"
       />
     </div>
     <div class="fs-button-group">
-      <button class="fs-button" type="submit">Submit</button>
+      <button class="w-full px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors duration-200" type="submit">Submit</button>
     </div>
   </fieldset>
 </form>
