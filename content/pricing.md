@@ -44,16 +44,14 @@ layout: "pricing"
             }
         },
         {
-            "name": "Enterprise",
-            "price": "499",
-            "unit": "test",
-            "description": "Best for large scale uses and extended redistribution rights.",
+            "name": "Anything else",
+            "price": "20",
+            "unit": "hour",
+            "description": "Talents and tools for any task.",
             "features": [
-                "Individual configuration",
-                "No setup, or hidden fees",
-                "Team size: 100+ developers",
-                "Premium support: 36 months",
-                "Free updates: 36 months"
+                "Compassionate assistance",
+                "No hidden fees",
+                "Satisfaction guaranteed"
             ],
             "button": {
                 "text": "Book Consult",

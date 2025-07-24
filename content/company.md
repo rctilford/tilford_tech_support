@@ -57,22 +57,22 @@ description: "Learn about our mission, leadership team, and the investors backin
 
 {{< section-container class="py-20 bg-gray-50" >}}
     <div class="max-w-6xl mx-auto">
-        <h2 class="text-3xl font-bold text-center mb-12">Company Values</h2>
+        <h2 class="text-3xl font-bold text-center mb-12">My Values</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< value-card 
-                title="Innovation First"
+                title="Compassion Above All"
                 icon="lightbulb"
-                description="We constantly push boundaries and embrace new technologies to solve complex challenges."
+                description="I understand that tech can be frustrating. I do everything I can to create a supportive environment."
             >}}
             {{< value-card 
-                title="Customer Success"
+                title="Customer Satisfaction"
                 icon="users"
-                description="Our customers' success is our success. We're committed to delivering exceptional value."
+                description="I am proud to offer a satisfaction guarantee. If you aren't satisfied with my work, I will void my fees."
             >}}
             {{< value-card 
-                title="Transparency"
+                title="Communication"
                 icon="eye"
-                description="We believe in open communication and building trust through transparency."
+                description="Communication is the key ingrediant to realizing your requests. That's why I approach all conversations with curiosity."
             >}}
         </div>
     </div>
@@ -81,8 +81,8 @@ description: "Learn about our mission, leadership team, and the investors backin
 {{< section-container class="py-20" >}}
     <div class="max-w-6xl mx-auto">
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
-            {{< stat number="2015" label="Founded" >}}
-            {{< stat number="200+" label="Team Members" >}}
+            {{< stat number="2025" label="Founded" >}}
+            {{< stat number="100+" label="Computers Optimized" >}}
             {{< stat number="10k+" label="Customers" >}}
             {{< stat number="50M+" label="Annual Revenue" >}}
         </div>

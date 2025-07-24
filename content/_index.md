@@ -85,8 +85,8 @@ testimonials:
 {{< /features-section >}}
 
 {{< testimonials 
-    title="Trusted by Modern Web Teams"
-    description="See how teams are building better websites with our theme."
+    title="Trusted by [INSERT NAMES/ORGANIZATIONS HERE]"
+    description="See how tech can be tailored to your needs."
     animate="true"
     background-color="#f1f5f9"
 >}}
