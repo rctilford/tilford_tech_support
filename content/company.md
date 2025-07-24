@@ -83,8 +83,8 @@ description: "Learn about our mission, leadership team, and the investors backin
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
             {{< stat number="2025" label="Founded" >}}
             {{< stat number="100+" label="Computers Optimized" >}}
-            {{< stat number="10k+" label="Customers" >}}
-            {{< stat number="50M+" label="Annual Revenue" >}}
+            {{< stat number="25+" label="Computers Backed Up" >}}
+            {{< stat number="50+" label="Cassettes Digitized" >}}
         </div>
     </div>
 {{< /section-container >}}
