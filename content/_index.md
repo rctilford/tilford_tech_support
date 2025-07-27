@@ -53,7 +53,7 @@ testimonials:
     badgeColor="#2563eb"
     image="images/feature-1.svg"
     buttonText="Learn More"
-    buttonLink="features/performance/"
+    buttonLink="services/media-digitization"
     features="Multiple destination formats,Original quality,No hidden fees,Satisfaction guaranteed"
     imagePosition="right"
 >}}
@@ -65,7 +65,7 @@ testimonials:
     badgeColor="#7c3aed"
     image="images/feature-2.svg"
     buttonText="Learn More"
-    buttonLink="features/design-system/"
+    buttonLink="services/virus-removal"
     features="Comprehensive support,No hidden fees,Satisfaction guaranteed"
     imagePosition="left"
 >}}
@@ -77,7 +77,7 @@ testimonials:
     badgeColor="#16a34a"
     image="images/feature-3.svg"
     buttonText="Learn More"
-    buttonLink="features/developer-experience/"
+    buttonLink="services/file-conversion"
     features="Easy customization,No hidden fees,Satisfaction guaranteed"
     imagePosition="right"
 >}}

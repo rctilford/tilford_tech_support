@@ -1,16 +1,16 @@
 ---
-title: "Lightning-Fast Performance"
+title: "Media Digitization"
 description: "Leverage Hugo's blazing-fast build times and optimized output. Your website loads instantly, providing an exceptional user experience."
 layout: "feature"
-badge: "Performance"
+badge: "Preservation"
 badgeColor: "#2563eb"
 features:
-  - title: "Sub-second Page Loads"
-    description: "Experience instant page transitions with Hugo's static site generation. Pages load in milliseconds, ensuring visitors stay engaged."
-  - title: "Optimized Assets"
-    description: "Automatically optimize images, CSS, and JavaScript. Reduce file sizes without compromising quality for faster load times."
-  - title: "Minimal JavaScript"
-    description: "Built with minimal JavaScript dependencies. Pages remain fast and functional while keeping the bundle size small."
+  - title: "Original Quality"
+    description: "Unlike other vendors, I maintain the quality of your media as it is copied onto the computer."
+  - title: "Compact Storage"
+    description: "Tapes, disks, and pictures take up a lot of space. Your entire media collection could fit on one computer drive."
+  - title: "Easy Access"
+    description: "Access all of your memories without digging around the attic."
   - title: "CDN-Ready Output"
     description: "Deploy your site to any CDN for global distribution. Static files are optimized for edge caching and maximum performance."
 demo:
@@ -22,12 +22,12 @@ demo:
 
 Our theme is engineered from the ground up with performance in mind. By leveraging Hugo's powerful static site generation and combining it with modern optimization techniques, we deliver websites that load instantly and run smoothly.
 
-### Performance Metrics
+### Maximum Flexibility
 
-- **Build Time**: Less than 1 second for most sites
-- **Page Load Time**: Under 500ms first contentful paint
-- **Time to Interactive**: Under 1.5 seconds
-- **Google Lighthouse Score**: 95+ on all metrics
+- **Output Options** 
+  - **Digital File**: Receive a digital file that can be stored on your computer or in the cloud.
+  - **USB Drive**: Plug into a computer or a television to see all of your media.
+  - **Disk**: View your media with any disk player.
 
 ### Optimization Features
 

@@ -176,9 +176,9 @@ paginatePath = "page"
     [menu.main.params]
       has_submenu = true
       submenu = [
-        { name = "Cassette Digitization", url = "features/performance/" },
-        { name = "Virus Removal and OS Recovery", url = "features/design-system/" },
-        { name = "File Conversion", url = "features/developer-experience/" }
+        { name = "Cassette Digitization", url = "services/media-digitization" },
+        { name = "Virus Removal and OS Recovery", url = "services/virus-removal" },
+        { name = "File Conversion", url = "services/file-conversion" }
       ]
   [[menu.main]]
     name = "Pricing"
@@ -201,15 +201,15 @@ paginatePath = "page"
   # Footer Column 1 Menu
   [[menu.footer_column_1]]
     name = "Cassette Digitization"
-    url = "features/performance/"
+    url = "services/performance/"
     weight = 1
   [[menu.footer_column_1]]
     name = "Virus Removal and OS Recovery"
-    url = "features/design-system/"
+    url = "services/design-system/"
     weight = 2
   [[menu.footer_column_1]]
     name = "File Conversion"
-    url = "features/developer-experience/"
+    url = "services/developer-experience/"
     weight = 3
 
   # Footer Column 2 Menu
