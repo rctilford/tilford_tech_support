@@ -1,4 +1,5 @@
 baseURL = "https://rctilford.github.io/tilford_tech_support/"
+relativeURLs = true
 languageCode = "en-us"
 title = "Tilford Tech Support"
 
@@ -14,6 +15,8 @@ enableEmoji = true
 
 # Enable Git info for lastmod
 enableGitInfo = true
+
+
 
 [caches]
   [caches.images]
